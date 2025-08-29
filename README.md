@@ -43,6 +43,7 @@ http://localhost:3000/bfhl
 Push repo to GitHub.
 On Vercel:
 Import project from GitHub.
+
 Add Environment Variables:
 FULL_NAME
 DOB_DDMMYYYY
