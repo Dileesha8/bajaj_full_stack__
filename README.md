@@ -41,6 +41,7 @@ http://localhost:3000/bfhl
 ## Deployment (Vercel)
 
 Push repo to GitHub.
+
 On Vercel:
 Import project from GitHub.
 
